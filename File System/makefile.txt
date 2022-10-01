@@ -1,0 +1,3 @@
+all:
+	g++ q3.cpp -o output
+	./output

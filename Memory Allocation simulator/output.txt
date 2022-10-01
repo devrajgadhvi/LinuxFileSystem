@@ -1,0 +1,14 @@
+
+Total revenue made by AMAN: 59500
+Number of customers rejected due to wrong alloaction of rooms: 1
+Money wasted due to nature of AMAN: 12500
+
+Total revenue made by RAJ: 59500
+Number of customers rejected due to wrong alloaction of rooms: 1
+Money wasted due to nature of RAJ: 12500
+
+Total revenue made by ALOK: 72000
+Number of customers rejected due to wrong alloaction of rooms: 0
+Money wasted due to nature of ALOK: 0
+maximum revenue: 72000
+Top performer: ALOK

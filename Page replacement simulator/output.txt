@@ -1,0 +1,33 @@
+
+No. of times the librarian searched the library: 8
+
+
+
+ <<------- Subject ids of most issued books ------->>
+
+-----------: For B.Tech students :-----------
+B4 
+-----------: For M.Tech students :-----------
+M1 M3 
+-----------: For PhD students :-----------
+P1 P2 P3 
+
+<<------- Details of the book present after the simulation ------->>
+
+-----------: B.Tech Tray :-----------
+
+Book id	Subject id
+3	B4
+2	B3
+
+-----------: M.Tech Tray :-----------
+
+Book id	Subject id
+2	M1
+2	M3
+
+-----------: PhD Tray :-----------
+
+Book id	Subject id
+2	P1
+2	P3
