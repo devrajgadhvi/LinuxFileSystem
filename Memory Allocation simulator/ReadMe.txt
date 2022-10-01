@@ -1,5 +1,5 @@
-Question 1: Assignment 2
-Submission By: Mayank Singh Parmar(214101027) and Devraj gandhvi 214101017
+For Memory Allocation Simulator:
+----------------------------------------------------------------------------------------------------------------------
 There are two input file named input1.txt and input2.txt. user can select the inputs from those options.
 Output is displayed in the console as well as printed in the output.txt file.
 

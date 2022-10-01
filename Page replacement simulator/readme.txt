@@ -1,7 +1,5 @@
-Readme for Assignment 2 - Question 2
-Submitted by:
-	Devraj Gadhvi 214101017
-	Mayank Singh Parmar 214101027
+For Page replacement simulator
+---------------------------------------------------------------------------------------------------
 
 ==> System requirements:
 - System should have g++ compiler installed as well as C++ STL should be present.

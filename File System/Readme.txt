@@ -1,5 +1,4 @@
-Question 3: assignment 2
-Submission by : Mayank singh parmar and Devraj Gadhvi
+For File System:
 ----------------------------------------------------------------------------------------------
 There are 6 input commands:
 1. mf file-name "filecontents"
